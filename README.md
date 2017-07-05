@@ -12,7 +12,7 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 - Complete notification
 - Something for BaiDu PCS Developer (You must have a **PCS API KEY**)
 
-# Thenks
+# Thanks
 - [Realm](https://realm.io/)
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - [Just](https://github.com/JustHTTP/Just)
