@@ -6,19 +6,28 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 ![Aria2D](https://i.imgur.com/ZOTG18U.png)
 
 ## Last Version
-    v1.2 Build2
+    v1.2.1 (b7b632f)
+
+> Old license is no longer valid.
+> 
+> Check your mail for new Lincese.
+> 
+> If you didn't receive a new Lincese, you can contact me.
+> <xjbeta.tiny@outlook.com>
+
 
 ## Downloads
 ### Aria2D
 - [DMG](https://dl.devmate.com/com.xjbeta.Aria2D/Aria2D.dmg)
 - [ZIP](https://dl.devmate.com/com.xjbeta.Aria2D/Aria2D.zip)
 
-### aria2.dmg
+### aria2 dmg
 - [aria2 DMG](https://dl.devmate.com/com.aria2.aria2c/aria2c.dmg)
 
 ## Features
 - Native macOS client (swift4.2)
 - Shortcuts
+- Full aria2 download options support
 - Auto start aria2c
 - Multi-server support
 - Complete notification
