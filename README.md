@@ -6,7 +6,7 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 ![Aria2D](https://i.imgur.com/ZOTG18U.png)
 
 ## Last Version
-    v1.2.1 (b7b632f)
+    1.2.2 (285)
 
 > Old license is no longer valid.
 > 
@@ -31,10 +31,11 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 - Auto start aria2c
 - Multi-server support
 - Complete notification
-- Something for BaiDu PCS Developer (You must have a **PCS API KEY**)
+- Something for BaiDu (only for testing).
 
 ## Acknowledgements
 - [Realm](https://realm.io/)
-- [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP)
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [PromiseKit](https://github.com/mxcl/PromiseKit)
 - [DevMate](https://devmate.com/)
 - [SocketRocket](https://github.com/facebook/SocketRocket)
