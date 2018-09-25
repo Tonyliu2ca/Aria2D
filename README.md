@@ -6,8 +6,8 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 ![Aria2D](https://i.imgur.com/ZOTG18U.png)
 
 ## Last Version
-    1.2.2 (285)
-
+    1.2.3 (297)
+    
 > Old license is no longer valid.
 > 
 > Check your mail for new Lincese.
@@ -32,6 +32,7 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 - Multi-server support
 - Complete notification
 - Something for BaiDu (only for testing).
+- Dark Mode support
 
 ## Acknowledgements
 - [Realm](https://realm.io/)
