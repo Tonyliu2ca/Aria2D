@@ -3,10 +3,10 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 
 > aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. [https://aria2.github.io](https://aria2.github.io)
 
-![Aria2D](https://i.imgur.com/ZOTG18U.png)
+![Aria2D](https://i.imgur.com/f3FXLJe.jpg)
 
 ## Last Version
-    1.2.3 (297)
+    1.2.4 (315)
     
 > Old license is no longer valid.
 > 
