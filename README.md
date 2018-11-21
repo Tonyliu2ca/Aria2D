@@ -3,10 +3,10 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 
 > aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. [https://aria2.github.io](https://aria2.github.io)
 
-![Aria2D](https://i.imgur.com/f3FXLJe.jpg)
+![EFB0CEC1-86E8-44AE-BFEF-F87678EAE6E4.jpeg](https://i.loli.net/2018/11/21/5bf4f8c48657c.jpeg)
 
 ## Last Version
-    1.2.4 (315)
+    1.2.5 (347)
     
 > Old license is no longer valid.
 > 
@@ -31,12 +31,15 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 - Auto start aria2c
 - Multi-server support
 - Complete notification
-- Something for BaiDu (only for testing).
 - Dark Mode support
 
 ## Acknowledgements
-- [Realm](https://realm.io/)
-- [Alamofire](https://github.com/Alamofire/Alamofire)
 - [PromiseKit](https://github.com/mxcl/PromiseKit)
 - [DevMate](https://devmate.com/)
 - [SocketRocket](https://github.com/facebook/SocketRocket)
+
+## Screen Shots
+
+
+![NewTaskView](https://i.loli.net/2018/11/21/5bf4f8c59da53.png)
+![InfoView](https://i.loli.net/2018/11/21/5bf4f8c62b62f.png)
