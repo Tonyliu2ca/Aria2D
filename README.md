@@ -6,7 +6,7 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 ![EFB0CEC1-86E8-44AE-BFEF-F87678EAE6E4.jpeg](https://i.loli.net/2018/11/21/5bf4f8c48657c.jpeg)
 
 ## Last Version
-    1.2.5 (350)
+    1.2.5 (358)
     
 > Old license is no longer valid.
 > 
